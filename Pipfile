@@ -9,6 +9,8 @@ pandas = "*"
 numpy = "*"
 python-dotenv = "*"
 opendatasets = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
